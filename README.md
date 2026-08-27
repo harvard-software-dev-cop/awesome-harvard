@@ -6,6 +6,8 @@
 
 - [AI-Assisted Development](#ai-assisted-development)
 - [CI/CD and Automation](#cicd-and-automation)
+  - [Internal](#internal)
+  - [External](#external)
 - [Secure Services and Practices](#secure-services-and-practices)
 - [Internal Resources](#internal-resources)
 - [Contributing](#contributing)
@@ -17,6 +19,15 @@
 ## CI/CD and Automation
 
 *No resources yet - be the first to add one! See [CONTRIBUTING.md](CONTRIBUTING.md).*
+
+### Internal
+
+- [Python Test Actions – HUIT/LTS](https://github.huit.harvard.edu/LTS/ga-reusable-workflows#python-testing-action) — Runs pytest, mypy, isort, flake8 (configurable, compositable)
+
+### External
+
+- [Claude Code GitHub Actions](https://code.claude.com/docs/en/github-actions) — Run Claude Code in GHA workflows to respond to @claude mentions, automate tasks, and turn issues into pull requests.
+- [add-pr-comment](https://github.com/marketplace/actions/add-pr-comment) — A GitHub Action which adds a comment to a pull request issue or commit.
 
 ## Secure Services and Practices
 
