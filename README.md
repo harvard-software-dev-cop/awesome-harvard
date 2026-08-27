@@ -18,8 +18,6 @@
 
 ## CI/CD and Automation
 
-*No resources yet - be the first to add one! See [CONTRIBUTING.md](CONTRIBUTING.md).*
-
 ### Internal
 
 - [Python Test Actions – HUIT/LTS](https://github.huit.harvard.edu/LTS/ga-reusable-workflows#python-testing-action) — Runs pytest, mypy, isort, flake8 (configurable, compositable)
