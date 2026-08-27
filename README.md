@@ -20,7 +20,7 @@
 
 ### Internal
 
-- [Python Test Actions – HUIT/LTS](https://github.huit.harvard.edu/LTS/ga-reusable-workflows#python-testing-action) — Runs pytest, mypy, isort, flake8 (configurable, compositable)
+- [Python Test Actions](https://github.huit.harvard.edu/LTS/ga-reusable-workflows#python-testing-action) – HUIT/LTS — Runs pytest, mypy, isort, flake8 (configurable, compositable)
 
 ### External
 
