@@ -14,6 +14,12 @@
 
 ## AI-Assisted Development
 
+### Internal
+
+- [ATS Plugin Marketplace](https://github.com/harvard-huit/ats-plugin-marketplace) - Various skills and MCPs that are relevant to ATS. 
+
+### External
+
 *No resources yet - be the first to add one! See [CONTRIBUTING.md](CONTRIBUTING.md).*
 
 ## CI/CD and Automation
