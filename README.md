@@ -14,6 +14,12 @@
 
 ## AI-Assisted Development
 
+### Internal
+
+- [ATS Plugin Marketplace](https://github.com/harvard-huit/ats-plugin-marketplace) - Various skills and MCPs that are relevant to ATS. 
+
+### External
+
 - [OpenSpec](https://openspec.dev/) - OpenSpec is a lightweight and configurable command-line tool and set of skills for creating and managing software specifications.
 
 ## CI/CD and Automation
