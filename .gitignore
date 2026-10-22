@@ -5,6 +5,7 @@
 .vscode/
 .idea/
 *.swp
+*~
 
 # Local agent/tool scratch
 .claude/.cc-writes/

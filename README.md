@@ -20,7 +20,7 @@
 
 ### External
 
-*No resources yet - be the first to add one! See [CONTRIBUTING.md](CONTRIBUTING.md).*
+- [OpenSpec](https://openspec.dev/) - OpenSpec is a lightweight and configurable command-line tool and set of skills for creating and managing software specifications.
 
 ## CI/CD and Automation
 
