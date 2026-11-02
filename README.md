@@ -21,6 +21,7 @@
 ### External
 
 - [OpenSpec](https://openspec.dev/) - OpenSpec is a lightweight and configurable command-line tool and set of skills for creating and managing software specifications.
+- [TaskMaster](https://github.com/eyaltoledano/claude-task-master) - TaskMaster is a task management system for AI and spec-driven development with Claude or Codex.
 
 ## CI/CD and Automation
 
