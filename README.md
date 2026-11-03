@@ -17,6 +17,7 @@
 ### Internal
 
 - [ATS Plugin Marketplace](https://github.com/harvard-huit/ats-plugin-marketplace) - Various skills and MCPs that are relevant to ATS. 
+- [LTS Claude Skills](https://github.com/harvard-lts/claude-skills) - Harvard Library Technology Services' shared Claude Code skills.
 
 ### External
 
